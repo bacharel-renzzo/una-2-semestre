@@ -20,5 +20,5 @@ As tecnologias que foram utilizadas são as seguintes (em ambas matérias):
 
 <h2 id=autor> 👨‍🎓 Autor </h2>
 
-- As atividades foram realizadas por: <a href="github.com/renzzorocha" target="_blank">Renzzo Rocha</a>.
+- As atividades foram realizadas por: <a href="www.github.com/renzzorocha" target="_blank">Renzzo Rocha</a>.
 
