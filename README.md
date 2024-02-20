@@ -16,7 +16,7 @@ As tecnologias que estão sendo utilizadas são as seguintes (em ambas matérias
 
 - As atividades foram propostas pelos professores das seguintes disciplinas:
 - Ambientes Computacionais e Conectividade: Elson & Orlando;
-- Sistemas Computacionais e Segurança: Ricardo & Daniel.
+- Sistemas Computacionais e Segurança: Ricardo Bicalho & Daniel Paiva.
 
 <h2 id=autor> 👨‍🎓 Autor </h2>
 
