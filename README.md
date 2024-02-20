@@ -2,7 +2,7 @@
 
 <h2 id=descricao> 📜 Descrição</h2>
 
-- Projetos do 2º semestre da faculdade;
+- Atividades do 2º semestre da faculdade;
 - As atividades são das UC's de Ambientes Computacionais e Conectividade/Sistemas Computacionais e Segurança.
 
 <h2 id=tecnologias> 💻 Tecnologias </h2>
@@ -10,15 +10,21 @@
 As tecnologias que foram utilizadas são as seguintes (em ambas matérias): 
 
 - Cisco Packet Tracer - <a href="https://www.netacad.com/pt-br/courses/packet-tracer">Cisco Packet Tracer</a>
-- WireShark - <a href= "https://www.wireshark.org/">WireShark</a>.
+- WireShark - <a href= "https://www.wireshark.org/">WireShark</a>
 
 <h2 id=Professor> 👨‍🏫 Professores </h2>
 
 - As listas de exercícios foram propostas pelos professores das seguintes disciplinas:
-- Ambientes Computacionais e Conectividade: Elson & Orlando.
+- Ambientes Computacionais e Conectividade: Elson & Orlando;
 - Sistemas Computacionais e Segurança: Ricardo & Daniel.
 
 <h2 id=autor> 👨‍🎓 Autor </h2>
 
-- As atividades foram realizadas por: <a href="www.github.com/renzzorocha" target="_blank">Renzzo Rocha</a>.
+- As atividades foram realizadas por: <a href="github.com/renzzorocha" target="_blank">Renzzo Rocha</a>.
+
+
+
+
+
+
 
