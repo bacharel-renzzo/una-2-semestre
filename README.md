@@ -7,7 +7,7 @@
 
 <h2 id=tecnologias> 💻 Tecnologias </h2>
 
-As tecnologias que foram utilizadas são as seguintes (em ambas matérias): 
+As tecnologias que estão sendo utilizadas são as seguintes (em ambas matérias): 
 
 - Cisco Packet Tracer - <a href="https://www.netacad.com/pt-br/courses/packet-tracer">Cisco Packet Tracer</a>
 - WireShark - <a href= "https://www.wireshark.org/">WireShark</a>
