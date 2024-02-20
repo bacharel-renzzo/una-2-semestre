@@ -14,7 +14,7 @@ As tecnologias que estão sendo utilizadas são as seguintes (em ambas matérias
 
 <h2 id=Professor> 👨‍🏫 Professores </h2>
 
-- As listas de exercícios foram propostas pelos professores das seguintes disciplinas:
+- As atividades foram propostas pelos professores das seguintes disciplinas:
 - Ambientes Computacionais e Conectividade: Elson & Orlando;
 - Sistemas Computacionais e Segurança: Ricardo & Daniel.
 
